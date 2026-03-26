@@ -1,0 +1,1 @@
+The goal of this project is to transform raw financial data into a structured format for analysis. I have implemented an ETL (Extract, Transform, Load) pipeline using PySpark to handle large-scale data efficiently. Divided the master dataset into 4 logical subsets (Tables) for better normalization and data organization.
