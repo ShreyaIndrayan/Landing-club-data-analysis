@@ -1,0 +1,1 @@
+In this, I filter and clean the loan data. Do necessary changes, change the datatype, convert month column into year and apply other filtering conditions. At last update this cleaned data in a folder in parquet format.
